@@ -1,19 +1,3 @@
-<!--
-**nishantbadhautiya/nishantbadhautiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 
 <h3 align="center">
@@ -42,7 +26,7 @@ Backend Engineer • Node.js • System Design • Scalable Systems
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,postgresql,redis,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,mysql,postgresql,redis,docker,linux,git,aws,docker,nextjs,py,vim" />
 </p>
 
 ---
@@ -91,41 +75,18 @@ Backend Engineer • Node.js • System Design • Scalable Systems
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nishantbadhautiya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=nishantbadhautiya&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nishantbadhautiya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantbadhautiya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbadhautiya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nishantbadhautiya&theme=tokyonight&hide_border=true" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nishantbadhautiya/nishantbadhautiya/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishant-badhautiya-978074248">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:nishantbadhautiya100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-badhautiya-978074248) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nishantbadhautiya100) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/badhautiyaG) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19692695) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/badhautiya100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantbadhautiya100@gmail.com) 
 
 ---
 
