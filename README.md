@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">Backend Developer • Node.js • System Design • Scalable Systems</h3>
+<h3 align="center">Software Developer • Node.js • System Design • Scalable Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Node.js+Developer;Building+Scalable+Systems;API+Design+%7C+System+Architecture" />
@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantbadhautiya&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbadhautiya&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=nishantbadhautiya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/your-username/nishantbadhautiya/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -116,10 +116,10 @@ Here are some ideas to get you started:
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/nishant-badhautiya-978074248">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email">
+  <a href="mailto:nishantbadhautiya100@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -132,4 +132,4 @@ Here are some ideas to get you started:
 
 ---
 
-⭐ From [your-username](https://github.com/your-username)
+⭐ From [nishantbadhautiya](https://github.com/nishantbadhautiya)
