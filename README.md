@@ -41,31 +41,44 @@ Backend Engineer • Node.js • System Design • Scalable Systems
 ```
 
 ---
+## 🚀 Featured Systems & Work
 
-## 🚀 Featured Systems
+### 🏢 Backend Engineer @ Codebucket Solutions
 
-### 🔗 URL Shortener (Scalable Backend)
+📍 Patna | 🗓 Nov 2025 – Present
 
-* ⚡ High-performance URL mapping system
-* 🧠 Redis caching + rate limiting
-* 📊 Analytics-ready architecture
-* 🏗 Clean modular backend structure
-
----
-
-### 💬 Real-Time Chat System
-
-* 🔌 WebSocket-based architecture
-* 📡 Event-driven messaging
-* ⚙️ Scalable connection handling
+* Developing **scalable backend services & REST APIs** using Node.js, Express, PostgreSQL
+* Designing **clean architecture systems** for maintainability and scalability
+* Optimizing **database queries and performance** for high-traffic applications
+* Implementing **secure authentication & authorization systems**
 
 ---
 
-### 🛒 E-commerce Backend
+### 🏢 Backend Developer @ PixelByte Solutions
 
-* 🔐 Authentication & secure APIs
-* 🗄 PostgreSQL schema design
-* 📦 Orders, payments, and business logic
+📍 Patna | 🗓 June 2025 – Nov 2025
+
+* Built **scalable RESTful APIs** using Node.js, Express, MongoDB & PostgreSQL
+* Implemented **JWT authentication + RBAC** with Prisma & Redis
+* Deployed backend systems on **private servers (PM2)** and frontend on Vercel
+* Ensured **high availability, security, and performance**
+
+---
+
+## 🧩 Production-Level Projects
+
+### 🔗 Influency (Ongoing)
+
+* Building **production-grade backend system** at Codebucket
+* Implementing **layered architecture** using Node.js & Express
+* Optimizing MySQL queries using Sequelize + raw SQL
+
+---
+
+### 👨‍👩‍👧‍👦 Family Management System
+
+* Built full-stack system with **React + PostgreSQL + Prisma**
+* Designed efficient **CRUD operations with admin controls**
 
 ---
 
